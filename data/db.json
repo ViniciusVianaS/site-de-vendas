@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9,
+      "imagem": "images/camisa.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Calça",
+      "price": 90,
+      "imagem": "images/calca.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Casaco Moletom",
+      "price": 60,
+      "imagem": "images/casaco.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tenis Nike",
+      "price": 820,
+      "imagem": "images/nike.jpg"
+    }
+  ]
+}

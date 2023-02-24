@@ -1,0 +1,21 @@
+.container {
+    position: relative;
+    width: 100%;
+    
+}
+
+
+.search {
+    position: absolute;
+    top: 0;
+    left: 20px;
+}
+
+.caixa {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    color: #fff;
+    font-size: 20px;
+}
